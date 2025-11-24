@@ -1,6 +1,6 @@
 // Webhook Configuration
 // Update this URL with your actual webhook endpoint
-const WEBHOOK_URL = 'https://webhook.site/your-unique-id-here';
+const WEBHOOK_URL = 'https://webhook.site/8283ee31-9cd5-4b8e-8783-5c96881ecdf2';
 
 // CORS Proxy (optional - use if you get CORS errors)
 const CORS_PROXY = null; // Example: 'https://cors-anywhere.herokuapp.com/'
